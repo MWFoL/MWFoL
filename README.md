@@ -39,40 +39,9 @@ Why does this matter? Consider these realities:
 
 **Localization isn’t just about words—it’s about empowerment.**
 
-
 ---
 
-### Section 3: Our Projects – Turning Vision into Reality
-
-MWFoL doesn’t just talk—we deliver. Here are some flagship initiatives:
-
-1. **Project Babel**  
-   Named after the mythical tower, this initiative translates **10,000 Wikipedia articles** annually into endangered languages like Welsh, Maori, and Cherokee. We partner with indigenous elders to ensure authenticity.
-
-2. **Code Without Borders**  
-   We’ve localized programming languages (Python, JavaScript) and developer tools into 25 languages, empowering non-English speakers to join the tech revolution. Over 200,000 developers have used our resources to build apps for their communities.
-
-3. **Climate Speak**  
-   In collaboration with the IPCC, we’ve translated climate reports into 40+ languages, helping farmers in Bangladesh understand flood resilience strategies in Bengali.
-
-4. **EduVoice**  
-   We’ve adapted Khan Academy videos and Coursera courses into regional dialects, reaching 2 million students in linguistically marginalized areas.
-
----
-
-### Section 4: The Human Impact – Stories That Inspire
-
-Let me share two stories:  
-
-- **Maria, a teacher in Guatemala**  
-  Before MWFoL, Maria struggled to teach science because textbooks were only in Spanish—not her students’ native K’iche’. Today, she uses MWFoL’s K’iche’-localized STEM modules. "Now," she says, "my students dream of becoming scientists—not just laborers."  
-
-- **Ahmed, a Syrian refugee in Turkey**  
-  Ahmed, an engineer, lost his job due to language barriers. Through MWFoL’s Turkish-localized engineering certifications, he now leads a team building earthquake-resistant housing. "You gave me back my voice," he told us.
-
----
-
-### Section 6: Join the Movement – How You Can Help
+### Section 3: Join the Movement – How You Can Help
 
 MWFoL thrives on collective action. Here’s how you can contribute:  
 
