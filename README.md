@@ -45,12 +45,12 @@ Why does this matter? Consider these realities:
 
 MWFoL thrives on collective action. Here’s how you can contribute:  
 
-1. **Become a Translator** – Fluency in any language? Join our GTN.  
+1. **Become a Translator** – Fluency in any language? Join us.  
 2. **Donate** – $50 localizes a health manual; $500 translates an entire software suite.  
 3. **Advocate** – Share our mission. Language rights are human rights.  
 4. **Partner** – Are you part of a university, NGO, or tech company? Let’s collaborate.
 
-Visit **www.mwfol.org** to start today.
+Visit **https://github.com/MWFoL** to start today.
 
 ---
 
