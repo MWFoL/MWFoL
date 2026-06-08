@@ -1,4 +1,4 @@
-**Title: Make the World Full of Localization (MWFoL): Uniting Humanity Through Language**
+# Make the World Full of Localization (MWFoL): Uniting Humanity Through Language
 
 ---
 
@@ -6,7 +6,7 @@
 
 Imagine a world where every great idea, every groundbreaking innovation, and every life-changing project is accessible not just to a few, but to all 7.9 billion people on Earth—regardless of the language they speak. For centuries, language barriers have divided us, limiting knowledge, stifling collaboration, and leaving entire communities behind. But what if we could turn this ancient challenge into an opportunity for global unity? What if we could build not a tower of confusion, but a bridge of understanding?  
 
-Welcome to **MWFoL**—**Make the World Full of Localization**.  
+Welcome to **MWFoL**-**Make the World Full of Localization**.  
 
 We are not just a translation organization; we are a movement. Our mission is simple yet monumental: **to translate the world’s most impactful projects into every language**, ensuring that no voice is silenced and no mind is left unenlightened by the brilliance of human achievement.
 
@@ -69,4 +69,4 @@ Together, let’s ensure that **no idea is ever lost in translation again**.
 ---
 
 **Thank you.**  
-*MWFoL – Because every voice deserves to be heard.*
+*MWFoL - Because every voice deserves to be heard.*
