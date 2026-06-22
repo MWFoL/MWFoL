@@ -1,4 +1,4 @@
-# Make the World Full of Localization (MWFoL): Uniting Humanity Through Language
+# <p align="center">Make the World Full of Localization (MWFoL): Uniting Humanity Through Language</p>
 
 ---
 
